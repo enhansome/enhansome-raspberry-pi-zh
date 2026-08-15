@@ -4,9 +4,9 @@
 
 > 树莓派（Raspberry Pi，下面简称RPi）是一系列由英国树莓派基金会（Raspberry Pi Foundation）开发的仅信用卡大小的微型计算机，截止到2017年2月，共发行了RPi 1，RPi 2，RPi 3以及RPi Zero 四款。树莓派发行的初衷，是在学校以及发展中国家推广基础计算机科学，官方主页：[Raspberry Pi Homepage](https://raspberrypi.org)
 
-本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,728 | 🐛 17 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
+本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,734 | 🐛 17 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
 
-Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 495,548 | 🐛 100 | 📅 2026-06-30
+Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 495,905 | 🐛 100 | 📅 2026-06-30
 
 近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也非常欢迎国内的树莓派爱好者一起来维护这个列表，但在这之前，请先阅读[贡献指南](CONTRIBUTING.md)
 
@@ -28,7 +28,7 @@ Todo
 
 <h2 id="os-images">系统镜像</h2>
 
-* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,208 | 🐛 839 | 🌐 Makefile | 📅 2025-02-14 - 将微型计算机打造为视频监控系统的Linux发行版。
+* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,209 | 🐛 840 | 🌐 Makefile | 📅 2025-02-14 - 将微型计算机打造为视频监控系统的Linux发行版。
 * [Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) ⚠️ Archived全球发行的第一个同时支持树莓派全系64位硬件的64位系统 !!!
 * [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) ⭐ 1,399 | 🐛 69 | 🌐 HTML | 📅 2022-04-04 - 可直接引导到全屏Chrome的镜像，非常适合用于仪表板和构建监视器。 ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [DietPi](https://github.com/Fourdee/DietPi) ⭐ 18 | 🐛 0 | 📅 2023-04-20 -  为2G SD卡准备的最小镜像， 带有许多可配置项和脚本.
@@ -63,8 +63,8 @@ Todo
 
 <h2 id="tools">工具</h2>
 
-* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 4,092 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 - Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小
-* [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,226 | 🐛 167 | 🌐 Shell | 📅 2026-06-19 - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
+* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 4,093 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 - Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小
+* [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,227 | 🐛 167 | 🌐 Shell | 📅 2026-06-19 - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
 * [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) ⭐ 373 | 🐛 3 | 🌐 Python | 📅 2017-09-22 - 配置Pi0，使其可以在wifi网络里扫描，发现谁是"home"
 * [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2017-05-02 - 一个能够将RPid的wlan0接口和连接在eth0接口上的设备进行桥接的程序。
 * [PiBakery](http://www.pibakery.org/) - 基于google的blockly项目, 为树莓派准备的易用的配置工具.
@@ -77,7 +77,7 @@ Todo
 
 <h2 id="projects">项目</h2>
 
-* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,064 | 🐛 22 | 🌐 C++ | 📅 2026-08-12 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
+* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,068 | 🐛 22 | 🌐 C++ | 📅 2026-08-12 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
 
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,818 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - 带语音控制智能镜子，集成物联网. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
@@ -152,7 +152,7 @@ Todo
 * [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - ssh免密码登录树莓派（使用SSH key）
 * [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - 简单、安全而详细的指南：在树莓派上设置VPN
 * [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js项目， 使用libspotify控制 Spotify 和 Slack.
-* [Moonlight](https://github.com/irtimmer/moonlight-embedded) ⭐ 1,649 | 🐛 121 | 🌐 C | 📅 2026-06-06 - 嵌入式系统的Gamestream客户端（把电脑主机的游戏串流到树莓派，然后输出到电视玩）
+* [Moonlight](https://github.com/irtimmer/moonlight-embedded) ⭐ 1,651 | 🐛 121 | 🌐 C | 📅 2026-06-06 - 嵌入式系统的Gamestream客户端（把电脑主机的游戏串流到树莓派，然后输出到电视玩）
 * [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - 树莓派Zero：使用USB来编程，无需网络连接、键盘或者屏幕 ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - 将树莓派接入多个无线网络的教程.
 * [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - 用树莓派搭建媒体服务器的教程（HTPC：Home Theater Personal Computer，即家庭影院电脑）
@@ -181,4 +181,4 @@ Todo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
