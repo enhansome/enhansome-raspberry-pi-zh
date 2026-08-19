@@ -1,23 +1,269 @@
 {
   "items": [
     {
-      "description": "Todo",
-      "items": [],
-      "title": "项目的参与者"
-    },
-    {
-      "description": "可以在这里找到贡献指南",
-      "items": [],
-      "title": "贡献"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "协议"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "motionEyeOS",
+          "description": "将微型计算机打造为视频监控系统的Linux发行版。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43636412,
+            "language": "Makefile",
+            "last_commit": "2025-02-14T15:47:26Z",
+            "owner": "motioneye-project",
+            "repo": "motioneyeos",
+            "stars": 8209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Debian-Pi-Aarch64",
+          "description": "全球发行的第一个同时支持树莓派全系64位硬件的64位系统 !!!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 163663953,
+            "language": "Shell",
+            "last_commit": "2026-01-07T18:47:04Z",
+            "owner": "openfans-community-offical",
+            "repo": "Debian-Pi-Aarch64",
+            "stars": 2577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chilipie-kiosk",
+          "description": "可直接引导到全屏Chrome的镜像，非常适合用于仪表板和构建监视器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50190034,
+            "language": "HTML",
+            "last_commit": "2022-04-04T14:41:58Z",
+            "owner": "jareware",
+            "repo": "chilipie-kiosk",
+            "stars": 1399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DietPi",
+          "description": "为2G SD卡准备的最小镜像， 带有许多可配置项和脚本.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625923478,
+            "language": null,
+            "last_commit": "2023-04-20T18:06:54Z",
+            "owner": "Fourdee",
+            "repo": "DietPi",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiShrink",
+          "description": "Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56025125,
+            "language": "Shell",
+            "last_commit": "2026-05-10T09:43:54Z",
+            "owner": "Drewsif",
+            "repo": "PiShrink",
+            "stars": 4095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pi-gen",
+          "description": "用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55947851,
+            "language": "Shell",
+            "last_commit": "2026-06-19T09:54:29Z",
+            "owner": "RPi-Distro",
+            "repo": "pi-gen",
+            "stars": 3228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Presence Detector",
+          "description": "配置Pi0，使其可以在wifi网络里扫描，发现谁是\"home\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66388584,
+            "language": "Python",
+            "last_commit": "2017-09-22T21:09:15Z",
+            "owner": "initialstate",
+            "repo": "pi-sensor-free-presence-detector",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resin Bridge",
+          "description": "一个能够将RPid的wlan0接口和连接在eth0接口上的设备进行桥接的程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78559795,
+            "language": "Shell",
+            "last_commit": "2017-05-02T12:04:19Z",
+            "owner": "balena-io-experimental",
+            "repo": "balena-bridge",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Pi",
+          "description": "让大家能够通过制作音乐来学习编程的一款音乐合成器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9746477,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:51:53Z",
+            "owner": "sonic-pi-net",
+            "repo": "sonic-pi",
+            "stars": 12074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Mirror",
+          "description": "带语音控制智能镜子，集成物联网.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42341942,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T20:00:29Z",
+            "owner": "evancohen",
+            "repo": "smart-mirror",
+            "stars": 2818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonus",
+          "description": "开源、跨平台的语音识别框架（Google Cloud Speech）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66981433,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T19:09:52Z",
+            "owner": "evancohen",
+            "repo": "sonus",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiClock",
+          "description": "别致的时钟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35773708,
+            "language": "Python",
+            "last_commit": "2024-07-15T12:26:17Z",
+            "owner": "n0bel",
+            "repo": "PiClock",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecPi",
+          "description": "基于Raspberry Pi的家庭报警系统.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35609741,
+            "language": "Python",
+            "last_commit": "2022-11-23T11:47:26Z",
+            "owner": "SecPi",
+            "repo": "SecPi",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movel",
+          "description": "树莓派车载电脑",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26560680,
+            "language": "CoffeeScript",
+            "last_commit": "2015-12-21T22:39:37Z",
+            "owner": "stephenlacy",
+            "repo": "movel",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress using Docker",
+          "description": "使用docker跑wordpress（采用动态DNS）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 66695799,
+            "language": "Shell",
+            "last_commit": "2016-09-04T15:56:59Z",
+            "owner": "rothgar",
+            "repo": "rpi-wordpress",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garage Door Opener",
+          "description": "车库开门器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46377699,
+            "language": "Go",
+            "last_commit": "2023-03-06T23:12:53Z",
+            "owner": "benjefferies",
+            "repo": "gogo-garage-opener",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiFanTuner",
+          "description": "CPU风扇控制程序.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68592419,
+            "language": "Python",
+            "last_commit": "2016-09-22T10:47:19Z",
+            "owner": "winkidney",
+            "repo": "PIFanTuner",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "目录"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:03:40.147Z",
+    "last_updated": "2026-08-19T09:05:12.860Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi-zh",
