@@ -30,7 +30,7 @@
             "last_commit": "2026-01-07T18:47:04Z",
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2577
+            "stars": 2576
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4098
+            "stars": 4099
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3233
+            "stars": 3234
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 35773708,
             "language": "Python",
-            "last_commit": "2024-07-15T12:26:17Z",
+            "last_commit": "2026-08-21T19:40:41Z",
             "owner": "n0bel",
             "repo": "PiClock",
             "stars": 589
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:07:57.085Z",
+    "last_updated": "2026-08-22T08:57:40.686Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_id": 72014878,
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
