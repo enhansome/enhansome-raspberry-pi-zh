@@ -15,7 +15,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8207
+            "stars": 8208
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12078
+            "stars": 12081
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 35773708,
             "language": "Python",
-            "last_commit": "2026-08-21T19:40:41Z",
+            "last_commit": "2026-08-22T20:07:17Z",
             "owner": "n0bel",
             "repo": "PiClock",
             "stars": 589
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:57:40.686Z",
+    "last_updated": "2026-08-23T08:58:18.982Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_id": 72014878,
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
