@@ -90,7 +90,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3234
+            "stars": 3235
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 35773708,
             "language": "Python",
-            "last_commit": "2026-08-22T20:07:17Z",
+            "last_commit": "2026-08-24T02:34:19Z",
             "owner": "n0bel",
             "repo": "PiClock",
             "stars": 589
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:58:18.982Z",
+    "last_updated": "2026-08-24T09:23:59.153Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_id": 72014878,
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
