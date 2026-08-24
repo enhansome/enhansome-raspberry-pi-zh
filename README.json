@@ -15,7 +15,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8208
+            "stars": 8209
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3235
+            "stars": 3236
           }
         },
         {
@@ -257,13 +257,35 @@
             "repo": "PIFanTuner",
             "stars": 43
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Moonlight",
+              "description": "嵌入式系统的Gamestream客户端（把电脑主机的游戏串流到树莓派，然后输出到电视玩）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15691240,
+                "language": "C",
+                "last_commit": "2026-06-06T03:28:36Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-embedded",
+                "stars": 1656
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "教程"
         }
       ],
       "title": "目录"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:23:59.153Z",
+    "last_updated": "2026-08-24T14:03:51.978Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_id": 72014878,
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
