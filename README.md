@@ -6,7 +6,7 @@
 
 本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,783 | 🐛 18 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
 
-Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 499,696 | 🐛 106 | 📅 2026-08-21
+Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 499,739 | 🐛 106 | 📅 2026-08-21
 
 近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也非常欢迎国内的树莓派爱好者一起来维护这个列表，但在这之前，请先阅读[贡献指南](CONTRIBUTING.md)
 
@@ -63,7 +63,7 @@ Todo
 
 <h2 id="tools">工具</h2>
 
-* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 4,102 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 - Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小
+* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 4,101 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 - Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小
 * [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,236 | 🐛 167 | 🌐 Shell | 📅 2026-06-19 - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
 * [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) ⭐ 373 | 🐛 3 | 🌐 Python | 📅 2017-09-22 - 配置Pi0，使其可以在wifi网络里扫描，发现谁是"home"
 * [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2017-05-02 - 一个能够将RPid的wlan0接口和连接在eth0接口上的设备进行桥接的程序。
