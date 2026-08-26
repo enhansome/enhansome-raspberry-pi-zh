@@ -30,7 +30,7 @@
             "last_commit": "2026-01-07T18:47:04Z",
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2575
+            "stars": 2573
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-04-04T14:41:58Z",
             "owner": "jareware",
             "repo": "chilipie-kiosk",
-            "stars": 1399
+            "stars": 1398
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4101
+            "stars": 4102
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12082
+            "stars": 12084
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-02T20:00:29Z",
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2818
+            "stars": 2820
           }
         },
         {
@@ -285,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:08:50.963Z",
+    "last_updated": "2026-08-26T09:12:26.103Z",
     "original_repository": "wwj718/awesome-raspberry-pi-zh",
     "original_repository_id": 72014878,
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
