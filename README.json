@@ -90,7 +90,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3236
+            "stars": 3238
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12084
+            "stars": 12083
           }
         },
         {
@@ -285,9 +285,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:12:26.103Z",
-    "original_repository": "wwj718/awesome-raspberry-pi-zh",
-    "original_repository_id": 72014878,
+    "last_updated": "2026-08-27T11:59:06.808Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 72014878,
+      "language": null,
+      "last_commit": "2022-11-27T17:47:23Z",
+      "owner": "wwj718",
+      "repo": "awesome-raspberry-pi-zh",
+      "stars": 2512
+    },
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi-zh",
     "enhanced_repository_description": null,
