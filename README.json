@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Video Surveillance OS For Single-board Computers",
+            "homepage": null,
             "id": 43636412,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-14T15:47:26Z",
+            "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8211
+            "stars": 8211,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -26,12 +31,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)",
+            "homepage": "https://gitee.com/openfans-community/Debian-Pi-Aarch64",
             "id": 163663953,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-07T18:47:04Z",
+            "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2573
+            "stars": 2573,
+            "topics": [
+              "aarch64",
+              "arm64",
+              "arm64v8",
+              "armv8",
+              "deepin",
+              "pi",
+              "pi-4b",
+              "pi-64",
+              "pi-64bit",
+              "pi4",
+              "pi64",
+              "raspberry",
+              "raspberry-pi",
+              "raspberry-pi-3",
+              "raspberry-pi-3b",
+              "raspberry-pi-3b-plus",
+              "raspberry-pi-4",
+              "raspberrypi",
+              "rpi-4b",
+              "rpi64"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -42,12 +73,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.",
+            "homepage": null,
             "id": 50190034,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-04-04T14:41:58Z",
+            "open_issues": 69,
             "owner": "jareware",
             "repo": "chilipie-kiosk",
-            "stars": 1398
+            "stars": 1398,
+            "topics": [
+              "dashboard",
+              "kiosk-mode",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -58,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight justice for your single-board computer!",
+            "homepage": "https://dietpi.com/",
             "id": 625923478,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2023-04-20T18:06:54Z",
+            "open_issues": 0,
             "owner": "Fourdee",
             "repo": "DietPi",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -74,12 +119,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your pi images smaller!",
+            "homepage": null,
             "id": 56025125,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-10T09:43:54Z",
+            "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4100
+            "stars": 4100,
+            "topics": [
+              "pi-image",
+              "raspberry-pi",
+              "raspberrypi",
+              "sd-card",
+              "shell-script"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -90,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool used to create the official Raspberry Pi OS images",
+            "homepage": null,
             "id": 55947851,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-19T09:54:29Z",
+            "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3240
+            "stars": 3241,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -106,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Know Who's at the Office with the Raspberry Pi",
+            "homepage": null,
             "id": 66388584,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-22T21:09:15Z",
+            "open_issues": 3,
             "owner": "initialstate",
             "repo": "pi-sensor-free-presence-detector",
-            "stars": 373
+            "stars": 373,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -122,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resin.io device to bridging the wifi network to ethernet",
+            "homepage": null,
             "id": 78559795,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-05-02T12:04:19Z",
+            "open_issues": 2,
             "owner": "balena-io-experimental",
             "repo": "balena-bridge",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -138,12 +209,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code. Music. Live.",
+            "homepage": "https://sonic-pi.net",
             "id": 9746477,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T16:51:53Z",
+            "open_issues": 25,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12084
+            "stars": 12084,
+            "topics": [
+              "art",
+              "audio",
+              "education",
+              "instrument",
+              "live-coding",
+              "livecoding",
+              "music",
+              "schools",
+              "sonic-pi",
+              "synthesis",
+              "synthesizer"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -154,12 +242,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fairest of them all. A DIY voice controlled smart mirror with IoT integration.",
+            "homepage": "http://smart-mirror.io",
             "id": 42341942,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-02T20:00:29Z",
+            "open_issues": 19,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2820
+            "stars": 2820,
+            "topics": [
+              "diy",
+              "home-automation",
+              "raspberry-pi",
+              "smart-home",
+              "voice-control"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -170,12 +269,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speech_balloon: /so.nus/ STT (speech to text) for Node with offline hotword detection",
+            "homepage": null,
             "id": 66981433,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-02T19:09:52Z",
+            "open_issues": 36,
             "owner": "evancohen",
             "repo": "sonus",
-            "stars": 638
+            "stars": 638,
+            "topics": [
+              "alexa",
+              "hotword-detection",
+              "keyword-spotting",
+              "node",
+              "speech",
+              "speech-recognition",
+              "speech-to-text",
+              "stt",
+              "voice-control",
+              "voice-recognition"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -186,12 +301,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fancy Clock built around a monitor and a Raspberry Pi",
+            "homepage": null,
             "id": 35773708,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:26:22Z",
+            "open_issues": 2,
             "owner": "n0bel",
             "repo": "PiClock",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "clock",
+              "piclock",
+              "pyqt4",
+              "python2",
+              "radar",
+              "raspberry-pi",
+              "wall-clock",
+              "weather",
+              "weather-station"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -202,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Raspberry Pi based home alarm system.",
+            "homepage": null,
             "id": 35609741,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-23T11:47:26Z",
+            "open_issues": 32,
             "owner": "SecPi",
             "repo": "SecPi",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -218,12 +353,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Móvel - Dashboard for Raspberry pi car computer",
+            "homepage": null,
             "id": 26560680,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2015-12-21T22:39:37Z",
+            "open_issues": 1,
             "owner": "stephenlacy",
             "repo": "movel",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "car",
+              "car-computer",
+              "dashboard",
+              "obd",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -234,12 +380,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy way to run wordpress on a Raspberry Pi with Docker :whale:",
+            "homepage": null,
             "id": 66695799,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-09-04T15:56:59Z",
+            "open_issues": 0,
             "owner": "rothgar",
             "repo": "rpi-wordpress",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "docker",
+              "raspberry-pi",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -250,12 +405,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation of a Raspberry Pi garage door opener",
+            "homepage": null,
             "id": 46377699,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-06T23:12:53Z",
+            "open_issues": 21,
             "owner": "benjefferies",
             "repo": "gogo-garage-opener",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "automation",
+              "garage",
+              "google-actions",
+              "google-assistant",
+              "home-automation",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -266,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RaspberryPI CPU fan tuner with a s8050 Triode",
+            "homepage": null,
             "id": 68592419,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-09-22T10:47:19Z",
+            "open_issues": 1,
             "owner": "winkidney",
             "repo": "PIFanTuner",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
         },
@@ -284,12 +456,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gamestream client for embedded systems",
+                "homepage": "https://github.com/moonlight-stream/moonlight-embedded/wiki",
                 "id": 15691240,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-06T03:28:36Z",
+                "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1657
+                "stars": 1657,
+                "topics": [
+                  "gamestream",
+                  "moonlight"
+                ]
               },
               "first_seen": "2026-08-28T20:19:05.565Z"
             }
@@ -303,15 +483,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:19:05.565Z",
+    "last_updated": "2026-08-29T04:22:08.780Z",
     "original_repository_info": {
       "archived": false,
+      "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
+      "homepage": null,
       "id": 72014878,
       "language": null,
+      "license": null,
       "last_commit": "2022-11-27T17:47:23Z",
+      "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2512
+      "stars": 2512,
+      "topics": [
+        "raspberry-pi"
+      ]
     },
     "original_repository_sha": "dffbfa6f68ab9b04bd3001cf3a42b859fea63112",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi-zh",

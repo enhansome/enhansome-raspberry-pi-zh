@@ -4,9 +4,9 @@
 
 > 树莓派（Raspberry Pi，下面简称RPi）是一系列由英国树莓派基金会（Raspberry Pi Foundation）开发的仅信用卡大小的微型计算机，截止到2017年2月，共发行了RPi 1，RPi 2，RPi 3以及RPi Zero 四款。树莓派发行的初衷，是在学校以及发展中国家推广基础计算机科学，官方主页：[Raspberry Pi Homepage](https://raspberrypi.org)
 
-本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,799 | 🐛 18 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
+本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,802 | 🐛 18 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
 
-Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 500,821 | 🐛 105 | 📅 2026-08-21
+Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 
 近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也非常欢迎国内的树莓派爱好者一起来维护这个列表，但在这之前，请先阅读[贡献指南](CONTRIBUTING.md)
 
@@ -64,7 +64,7 @@ Todo
 <h2 id="tools">工具</h2>
 
 * [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 4,100 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 - Bash脚本，它会自动缩小pi镜像，之后在启动时将其调整为SD卡的最大存储空间大小
-* [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,240 | 🐛 169 | 🌐 Shell | 📅 2026-06-19 - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
+* [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,241 | 🐛 169 | 🌐 Shell | 📅 2026-06-19 - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
 * [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) ⭐ 373 | 🐛 3 | 🌐 Python | 📅 2017-09-22 - 配置Pi0，使其可以在wifi网络里扫描，发现谁是"home"
 * [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2017-05-02 - 一个能够将RPid的wlan0接口和连接在eth0接口上的设备进行桥接的程序。
 * [PiBakery](http://www.pibakery.org/) - 基于google的blockly项目, 为树莓派准备的易用的配置工具.
@@ -181,4 +181,4 @@ Todo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
