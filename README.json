@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8211,
+            "stars": 8212,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -155,7 +155,7 @@
             "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3241,
+            "stars": 3242,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:08.780Z",
+    "last_updated": "2026-08-29T13:57:32.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2512,
+      "stars": 2513,
       "topics": [
         "raspberry-pi"
       ]
