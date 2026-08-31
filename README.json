@@ -155,7 +155,7 @@
             "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3243,
+            "stars": 3244,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:55:06.404Z",
+    "last_updated": "2026-08-31T16:18:22.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2514,
+      "stars": 2515,
       "topics": [
         "raspberry-pi"
       ]
