@@ -128,7 +128,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4102,
+            "stars": 4103,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -155,7 +155,7 @@
             "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3243,
+            "stars": 3244,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -215,10 +215,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-12T16:51:53Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12087,
+            "stars": 12106,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:37:38.775Z",
+    "last_updated": "2026-09-02T12:54:36.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
