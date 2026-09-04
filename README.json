@@ -218,7 +218,7 @@
             "open_issues": 26,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12113,
+            "stars": 12112,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1658,
+                "stars": 1657,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:57:07.836Z",
+    "last_updated": "2026-09-04T12:52:06.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2515,
+      "stars": 2514,
       "topics": [
         "raspberry-pi"
       ]
