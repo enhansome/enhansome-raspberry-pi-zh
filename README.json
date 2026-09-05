@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2574,
+            "stars": 2575,
             "topics": [
               "aarch64",
               "arm64",
@@ -128,7 +128,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4102,
+            "stars": 4103,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -152,7 +152,7 @@
             "language": "Shell",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-19T09:54:29Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
             "stars": 3246,
@@ -218,7 +218,7 @@
             "open_issues": 26,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12112,
+            "stars": 12116,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:52:06.954Z",
+    "last_updated": "2026-09-05T11:56:18.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
