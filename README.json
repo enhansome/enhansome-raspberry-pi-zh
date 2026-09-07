@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2575,
+            "stars": 2574,
             "topics": [
               "aarch64",
               "arm64",
@@ -218,7 +218,7 @@
             "open_issues": 26,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12117,
+            "stars": 12119,
             "topics": [
               "art",
               "audio",
@@ -251,7 +251,7 @@
             "open_issues": 19,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2820,
+            "stars": 2821,
             "topics": [
               "diy",
               "home-automation",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:15:50.725Z",
+    "last_updated": "2026-09-07T14:22:54.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",

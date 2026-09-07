@@ -4,9 +4,9 @@
 
 > 树莓派（Raspberry Pi，下面简称RPi）是一系列由英国树莓派基金会（Raspberry Pi Foundation）开发的仅信用卡大小的微型计算机，截止到2017年2月，共发行了RPi 1，RPi 2，RPi 3以及RPi Zero 四款。树莓派发行的初衷，是在学校以及发展中国家推广基础计算机科学，官方主页：[Raspberry Pi Homepage](https://raspberrypi.org)
 
-本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,834 | 🐛 23 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
+本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,844 | 🐛 23 | 🌐 Shell | 📅 2026-07-27 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
 
-Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 503,476 | 🐛 106 | 📅 2026-09-02
+Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 503,867 | 🐛 106 | 📅 2026-09-02
 
 近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也非常欢迎国内的树莓派爱好者一起来维护这个列表，但在这之前，请先阅读[贡献指南](CONTRIBUTING.md)
 
@@ -77,9 +77,9 @@ Todo
 
 <h2 id="projects">项目</h2>
 
-* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,117 | 🐛 26 | 🌐 C++ | 📅 2026-08-12 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
+* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,119 | 🐛 26 | 🌐 C++ | 📅 2026-08-12 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
 
-* [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,820 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - 带语音控制智能镜子，集成物联网. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+* [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,821 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - 带语音控制智能镜子，集成物联网. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
 * [Sonus](https://github.com/evancohen/sonus) ⭐ 638 | 🐛 36 | 🌐 JavaScript | 📅 2024-07-02 - 开源、跨平台的语音识别框架（Google Cloud Speech）
 
@@ -181,4 +181,4 @@ Todo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
