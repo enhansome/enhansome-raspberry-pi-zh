@@ -128,7 +128,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4105,
+            "stars": 4104,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -151,11 +151,11 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T18:53:25Z",
-            "open_issues": 169,
+            "last_commit": "2026-09-09T14:49:00Z",
+            "open_issues": 167,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3247,
+            "stars": 3248,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -218,7 +218,7 @@
             "open_issues": 27,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12123,
+            "stars": 12126,
             "topics": [
               "art",
               "audio",
@@ -248,7 +248,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-07-02T20:00:29Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2821,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:05:23.415Z",
+    "last_updated": "2026-09-10T13:03:06.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
