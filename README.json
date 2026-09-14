@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8215,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -151,8 +151,8 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T14:49:00Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-14T14:11:07Z",
+            "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
             "stars": 3251,
@@ -218,7 +218,7 @@
             "open_issues": 28,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12130,
+            "stars": 12132,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:24:57.075Z",
+    "last_updated": "2026-09-14T15:11:10.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
