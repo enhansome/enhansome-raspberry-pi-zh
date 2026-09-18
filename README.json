@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2575,
+            "stars": 2574,
             "topics": [
               "aarch64",
               "arm64",
@@ -155,7 +155,7 @@
             "open_issues": 166,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3258,
+            "stars": 3259,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -247,8 +247,8 @@
             "id": 42341942,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-11T01:45:57Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-17T23:02:45Z",
+            "open_issues": 14,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2821,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:42:27.617Z",
+    "last_updated": "2026-09-18T13:05:28.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
