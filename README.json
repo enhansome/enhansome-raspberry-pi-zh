@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -128,7 +128,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4115,
+            "stars": 4116,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -151,11 +151,11 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T14:48:18Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-28T09:47:01Z",
+            "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3262,
+            "stars": 3263,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T09:35:44Z",
+            "last_commit": "2026-09-28T16:14:45Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12158,
+            "stars": 12157,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1662,
+                "stars": 1661,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:12:41.770Z",
+    "last_updated": "2026-09-28T16:55:50.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
