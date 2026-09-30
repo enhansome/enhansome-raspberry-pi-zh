@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2572,
+            "stars": 2573,
             "topics": [
               "aarch64",
               "arm64",
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T16:14:45Z",
+            "last_commit": "2026-09-30T12:16:46Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12158,
+            "stars": 12163,
             "topics": [
               "art",
               "audio",
@@ -251,7 +251,7 @@
             "open_issues": 9,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2822,
+            "stars": 2823,
             "topics": [
               "diy",
               "home-automation",
@@ -465,7 +465,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1662,
+                "stars": 1663,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:59:06.066Z",
+    "last_updated": "2026-09-30T15:08:50.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
