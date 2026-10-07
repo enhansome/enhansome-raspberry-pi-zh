@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2573,
+            "stars": 2574,
             "topics": [
               "aarch64",
               "arm64",
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T12:01:25Z",
+            "last_commit": "2026-10-06T20:35:13Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12179,
+            "stars": 12181,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:23:10.082Z",
+    "last_updated": "2026-10-07T15:41:58.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",

@@ -6,7 +6,7 @@
 
 本列表翻译自[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,954 | 🐛 33 | 🌐 Shell | 📅 2026-10-02 ，是由 [thibmaek](https://github.com/thibmaek) 发起并维护的树莓派资源列表，内容包括树莓派相关的工具、项目、系统镜像、社区及其他一些资源。
 
-Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,494 | 🐛 106 | 📅 2026-09-02
+Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,946 | 🐛 106 | 📅 2026-09-02
 
 近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也非常欢迎国内的树莓派爱好者一起来维护这个列表，但在这之前，请先阅读[贡献指南](CONTRIBUTING.md)
 
@@ -77,7 +77,7 @@ Todo
 
 <h2 id="projects">项目</h2>
 
-* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,179 | 🐛 34 | 🌐 C++ | 📅 2026-10-06 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
+* [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,181 | 🐛 34 | 🌐 C++ | 📅 2026-10-06 - 让大家能够通过制作音乐来学习编程的一款音乐合成器
 
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,820 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01 - 带语音控制智能镜子，集成物联网. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
@@ -181,4 +181,4 @@ Todo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
