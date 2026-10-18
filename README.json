@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8215,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T11:16:43Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-18T11:10:16Z",
+            "open_issues": 45,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12206,
+            "stars": 12208,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 122,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:19:37.243Z",
+    "last_updated": "2026-10-18T12:44:39.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
