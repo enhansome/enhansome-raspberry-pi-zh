@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8215,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -125,7 +125,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-05-10T09:43:54Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
             "stars": 4121,
@@ -155,7 +155,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3268,
+            "stars": 3269,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T09:45:58Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-20T13:19:46Z",
+            "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12209,
+            "stars": 12214,
             "topics": [
               "art",
               "audio",
@@ -248,7 +248,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-10-13T05:09:48Z",
-            "open_issues": 11,
+            "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2819,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:48:16.315Z",
+    "last_updated": "2026-10-20T13:46:39.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
