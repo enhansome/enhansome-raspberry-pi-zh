@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T13:19:46Z",
+            "last_commit": "2026-10-20T14:53:06Z",
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12214,
+            "stars": 12216,
             "topics": [
               "art",
               "audio",
@@ -251,7 +251,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2819,
+            "stars": 2818,
             "topics": [
               "diy",
               "home-automation",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:46:39.906Z",
+    "last_updated": "2026-10-21T14:01:57.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2519,
+      "stars": 2520,
       "topics": [
         "raspberry-pi"
       ]
