@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2572,
+            "stars": 2571,
             "topics": [
               "aarch64",
               "arm64",
@@ -155,7 +155,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3271,
+            "stars": 3272,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -218,7 +218,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12222,
+            "stars": 12225,
             "topics": [
               "art",
               "audio",
@@ -251,7 +251,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2817,
+            "stars": 2818,
             "topics": [
               "diy",
               "home-automation",
@@ -310,7 +310,7 @@
             "open_issues": 2,
             "owner": "n0bel",
             "repo": "PiClock",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "clock",
               "piclock",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:51:44.823Z",
+    "last_updated": "2026-10-25T13:18:17.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2520,
+      "stars": 2519,
       "topics": [
         "raspberry-pi"
       ]
