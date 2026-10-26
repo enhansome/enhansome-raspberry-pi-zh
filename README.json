@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4125,
+            "stars": 4126,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -218,7 +218,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12225,
+            "stars": 12230,
             "topics": [
               "art",
               "audio",
@@ -251,7 +251,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2818,
+            "stars": 2817,
             "topics": [
               "diy",
               "home-automation",
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "stephenlacy",
             "repo": "movel",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "car",
               "car-computer",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:18:17.510Z",
+    "last_updated": "2026-10-26T15:22:47.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
