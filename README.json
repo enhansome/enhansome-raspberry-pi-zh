@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4129,
+            "stars": 4130,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -215,10 +215,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T19:51:34Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12238,
+            "stars": 12241,
             "topics": [
               "art",
               "audio",
@@ -247,8 +247,8 @@
             "id": 42341942,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-13T05:09:48Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-31T09:51:29Z",
+            "open_issues": 8,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2820,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:11:20.523Z",
+    "last_updated": "2026-10-31T14:40:17.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2519,
+      "stars": 2518,
       "topics": [
         "raspberry-pi"
       ]
