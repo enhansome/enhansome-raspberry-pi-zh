@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8215,
+            "stars": 8216,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2570,
+            "stars": 2571,
             "topics": [
               "aarch64",
               "arm64",
@@ -107,7 +107,7 @@
             "open_issues": 0,
             "owner": "Fourdee",
             "repo": "DietPi",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4129,
+            "stars": 4128,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -155,7 +155,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3275,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -218,7 +218,7 @@
             "open_issues": 55,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12241,
+            "stars": 12245,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:23:41.801Z",
+    "last_updated": "2026-11-02T18:42:21.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
