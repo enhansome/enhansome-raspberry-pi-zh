@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "openfans-community-offical",
             "repo": "Debian-Pi-Aarch64",
-            "stars": 2571,
+            "stars": 2570,
             "topics": [
               "aarch64",
               "arm64",
@@ -155,7 +155,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3276,
+            "stars": 3274,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:42:21.239Z",
+    "last_updated": "2026-11-03T16:26:30.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
