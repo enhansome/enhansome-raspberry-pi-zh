@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8215,
+            "stars": 8216,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4132,
+            "stars": 4134,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -151,11 +151,11 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T16:21:05Z",
+            "last_commit": "2026-11-06T21:38:26Z",
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3280,
+            "stars": 3284,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T15:38:53Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-06T21:56:35Z",
+            "open_issues": 38,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12251,
+            "stars": 12250,
             "topics": [
               "art",
               "audio",
@@ -462,10 +462,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-06T03:28:36Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:08:05.682Z",
+    "last_updated": "2026-11-07T15:01:12.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
