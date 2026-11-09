@@ -151,7 +151,7 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T21:38:26Z",
+            "last_commit": "2026-11-09T10:26:30Z",
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T10:51:30Z",
+            "last_commit": "2026-11-09T18:23:08Z",
             "open_issues": 38,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12251,
+            "stars": 12256,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:29:33.125Z",
+    "last_updated": "2026-11-09T19:01:27.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
