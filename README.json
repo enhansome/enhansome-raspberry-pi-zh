@@ -82,7 +82,7 @@
             "open_issues": 69,
             "owner": "jareware",
             "repo": "chilipie-kiosk",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "dashboard",
               "kiosk-mode",
@@ -218,7 +218,7 @@
             "open_issues": 41,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12267,
+            "stars": 12273,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 120,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:16:17.534Z",
+    "last_updated": "2026-11-15T15:46:59.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
