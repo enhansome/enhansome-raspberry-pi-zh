@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8218,
+            "stars": 8217,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -128,7 +128,7 @@
             "open_issues": 23,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4137,
+            "stars": 4140,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -155,7 +155,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3287,
+            "stars": 3288,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -176,7 +176,7 @@
             "open_issues": 3,
             "owner": "initialstate",
             "repo": "pi-sensor-free-presence-detector",
-            "stars": 372,
+            "stars": 373,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T14:40:16Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-16T18:00:12Z",
+            "open_issues": 42,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12273,
+            "stars": 12277,
             "topics": [
               "art",
               "audio",
@@ -465,7 +465,7 @@
                 "open_issues": 120,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1672,
+                "stars": 1674,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:46:59.676Z",
+    "last_updated": "2026-11-16T18:47:32.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
@@ -495,7 +495,7 @@
       "open_issues": 0,
       "owner": "wwj718",
       "repo": "awesome-raspberry-pi-zh",
-      "stars": 2515,
+      "stars": 2516,
       "topics": [
         "raspberry-pi"
       ]
