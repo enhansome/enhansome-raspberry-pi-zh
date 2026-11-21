@@ -155,7 +155,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3289,
+            "stars": 3290,
             "topics": []
           },
           "first_seen": "2026-08-28T20:19:05.565Z"
@@ -214,11 +214,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T16:49:45Z",
+            "last_commit": "2026-11-20T21:31:22Z",
             "open_issues": 45,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12280,
+            "stars": 12281,
             "topics": [
               "art",
               "audio",
@@ -462,10 +462,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-11T07:41:12Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1674,
+                "stars": 1675,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:08:06.359Z",
+    "last_updated": "2026-11-21T16:18:55.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
