@@ -82,7 +82,7 @@
             "open_issues": 69,
             "owner": "jareware",
             "repo": "chilipie-kiosk",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "dashboard",
               "kiosk-mode",
@@ -128,7 +128,7 @@
             "open_issues": 24,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4148,
+            "stars": 4149,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -218,7 +218,7 @@
             "open_issues": 45,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12281,
+            "stars": 12282,
             "topics": [
               "art",
               "audio",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:18:55.493Z",
+    "last_updated": "2026-11-22T16:32:47.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等",
